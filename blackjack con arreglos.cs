@@ -71,6 +71,9 @@ namespace ConsoleApp68
                             Console.WriteLine(" (Ganas)");
                             break;
                         }
+                        else {
+                            Console.Write("perdio con = " + puntaje[i])
+                             }              
                     }
                     if (otracarta == "n")
                     {
