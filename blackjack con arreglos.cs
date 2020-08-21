@@ -100,7 +100,7 @@ namespace ConsoleApp68
                 }
             }
             Console.WriteLine("El ganador es = " + nombres[0]);
-            Console.WriteLine("El segundo lugar es = " + nombres[2]);
+            Console.WriteLine("El segundo lugar es = " + nombres[1]);
             Console.WriteLine("el ganador es = " + max);
         }
     }
